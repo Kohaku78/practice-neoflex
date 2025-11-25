@@ -24,6 +24,6 @@ mvn spring-boot:run
 После запуска приложения документация API доступна по адресу:
 http://localhost:8080/swagger-ui/index.html
 
-![Swagger Interface](demo/Calculator-swagger.png)
-![Swagger Interface](demo/Plus-swagger.png)
-![Swagger Interface](demo/Minus-swagger.png)
+![Swagger Interface](Calculator-swagger.png)
+![Swagger Interface](Plus-swagger.png)
+![Swagger Interface](Minus-swagger.png)
